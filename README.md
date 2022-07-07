@@ -5,7 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
 <br>
 
 <p align="center"> 
@@ -14,13 +13,16 @@
 
 
 ## :sassy_man:  About me
-I'm a software engineer with 4+ years of experience in the IT Industry. I'm having a hand in technologies in Java, J2EE, Spring Framework, Microservice, and System Design. I'm very enthusiastic to face new challenging problems. I create and deliver business and technology solutions that fit your needs and drive the results you want.
+I'm a software engineer with 4+ years of experience in the Software Industry. I'm having a hand in technologies in Java, J2EE, Spring Framework, Microservice, and System Design. I'm very enthusiastic to face new challenging problems. I create and deliver business and technology solutions that fit your needs and drive the results you want.
 
 - 🔭 I’m currently working on web application.
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on various chanllenging projects. 
 - 💬 Ask me about anthing on technical as well as well being.
 - ⚡ Fun fact: Every one has 24hr a day, still every one tell they are busy..😊
+
+![GitHub metrics](https://metrics.lecoq.io/dibasbehera7)  
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
