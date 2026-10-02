@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.gif" alt="Dibas Behera — Software Engineer, Web Applications, AWS Solution Architect">
+  <img src="./assets/profile-header.gif" alt="Dibas Behera — Software Engineer, Web Applications, pursuing an Enterprise Solution Architect career path">
 </div>
 
 <div align="center">
@@ -14,26 +14,26 @@
 
 <br>
 
-### A little about me
+### About Me
 
-I'm a software engineer with **7+ years in the software industry**. I build web applications, enjoy taking on challenging problems, and am currently learning system design.
+I'm a software engineer with over 8 years of experience in the software industry. I specialize in building web applications and have worked on diverse enterprise projects across multiple clients. I enjoy tackling challenging problems and am currently pursuing a career path toward becoming an enterprise solution architect.
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <sub>01 / BUILDING</sub><br>
-      <strong>Web applications</strong><br>
-      Current area of work.
+      <sub>01 / EXPERIENCE</sub><br>
+      <strong>8+ years in software</strong><br>
+      Enterprise projects across multiple clients.
     </td>
     <td width="33%" valign="top">
-      <sub>02 / EXPLORING</sub><br>
-      <strong>System design</strong><br>
-      Currently learning.
+      <sub>02 / SPECIALTY</sub><br>
+      <strong>Enterprise web applications</strong><br>
+      Java · J2EE · Spring · Microservices · AWS
     </td>
     <td width="34%" valign="top">
-      <sub>03 / OPEN TO</sub><br>
-      <strong>Challenging projects</strong><br>
-      Open to collaboration.
+      <sub>03 / CAREER PATH</sub><br>
+      <strong>Enterprise Solution Architect</strong><br>
+      Pursuing this path; currently learning system design.
     </td>
   </tr>
 </table>
@@ -48,5 +48,5 @@ I'm a software engineer with **7+ years in the software industry**. I build web 
 </p>
 
 <div align="center">
-  <sub>Thanks for stopping by — have a look around my repositories.</sub>
+  <sub>Made with ❤️ 🇮🇳, Powered by GitHub</sub>
 </div>
