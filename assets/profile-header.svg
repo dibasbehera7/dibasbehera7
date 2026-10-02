@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dibas Behera</title>
+  <desc id="desc">A dark, abstract code-editor inspired banner introducing Dibas Behera as a software engineer focused on web application development and AWS solution architecture.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#182c43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#69d5c5"/>
+      <stop offset="1" stop-color="#8c9eff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#b7d4f0" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="banner-clip">
+      <rect width="1200" height="300" rx="24"/>
+    </clipPath>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <g clip-path="url(#banner-clip)">
+    <circle cx="1090" cy="34" r="180" fill="#668cff" opacity=".08"/>
+    <circle cx="1090" cy="34" r="118" fill="none" stroke="#9bb0ff" stroke-opacity=".16"/>
+    <circle cx="1090" cy="34" r="76" fill="none" stroke="#69d5c5" stroke-opacity=".2"/>
+  </g>
+
+  <g transform="translate(72 61)">
+    <rect width="1056" height="178" rx="16" fill="#0b1220" fill-opacity=".76" stroke="#aec9e8" stroke-opacity=".17"/>
+    <path d="M16 1h1024a15 15 0 0 1 15 15v28H1V16A15 15 0 0 1 16 1Z" fill="#ffffff" fill-opacity=".045"/>
+    <circle cx="25" cy="22" r="5" fill="#ff7b72"/>
+    <circle cx="43" cy="22" r="5" fill="#f4c96b"/>
+    <circle cx="61" cy="22" r="5" fill="#69d5a5"/>
+    <text x="88" y="27" fill="#9aabc0" font-family="Consolas, 'Courier New', monospace" font-size="12">~/profile</text>
+
+    <text x="40" y="88" fill="#69d5c5" font-family="Consolas, 'Courier New', monospace" font-size="16">&gt;</text>
+    <text x="66" y="89" fill="#f0f5fb" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing=".5">Dibas Behera</text>
+    <rect x="306" y="61" width="2" height="34" fill="url(#accent)"/>
+    <text x="40" y="126" fill="#a9bad0" font-family="Segoe UI, Arial, sans-serif" font-size="17">Software Engineer  /  Web Applications  /  AWS Solution Architect</text>
+    <path d="M40 148h208" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <text x="40" y="167" fill="#72869f" font-family="Consolas, 'Courier New', monospace" font-size="11">building · learning · collaborating</text>
+    <text x="1008" y="164" text-anchor="end" fill="#62758d" font-family="Consolas, 'Courier New', monospace" font-size="11">README.md</text>
+  </g>
+</svg>
