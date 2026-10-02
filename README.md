@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg?v=c6a4e15" alt="Dibas Behera — Software Engineer, Web Applications, AWS Solution Architect">
+  <img src="./assets/profile-header.gif" alt="Dibas Behera — Software Engineer, Web Applications, AWS Solution Architect">
 </div>
 
 <div align="center">
