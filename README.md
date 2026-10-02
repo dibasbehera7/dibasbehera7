@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/dibasbehera7?tab=repositories">REPOSITORIES</a>
   &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/dibasbehera7/">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/dibasbehera/">LINKEDIN</a>
   &nbsp; / &nbsp;
   <a href="https://www.hackerrank.com/dibasbehera">HACKERRANK</a>
   &nbsp; / &nbsp;
@@ -23,17 +23,17 @@ I'm a software engineer with **7+ years in the software industry**. I build web 
     <td width="33%" valign="top">
       <sub>01 / BUILDING</sub><br>
       <strong>Web applications</strong><br>
-      Turning ideas into useful software.
+      Current area of work.
     </td>
     <td width="33%" valign="top">
       <sub>02 / EXPLORING</sub><br>
       <strong>System design</strong><br>
-      Learning how reliable systems fit together.
+      Currently learning.
     </td>
     <td width="34%" valign="top">
       <sub>03 / OPEN TO</sub><br>
       <strong>Challenging projects</strong><br>
-      Always glad to collaborate and learn.
+      Open to collaboration.
     </td>
   </tr>
 </table>
